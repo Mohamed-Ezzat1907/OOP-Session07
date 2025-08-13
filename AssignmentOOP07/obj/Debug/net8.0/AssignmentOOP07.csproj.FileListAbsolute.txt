@@ -1,0 +1,14 @@
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\bin\Debug\net8.0\AssignmentOOP07.exe
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\bin\Debug\net8.0\AssignmentOOP07.deps.json
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\bin\Debug\net8.0\AssignmentOOP07.runtimeconfig.json
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\bin\Debug\net8.0\AssignmentOOP07.dll
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\bin\Debug\net8.0\AssignmentOOP07.pdb
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.AssemblyInfoInputs.cache
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.AssemblyInfo.cs
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.csproj.CoreCompileInputs.cache
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.dll
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\refint\AssignmentOOP07.dll
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.pdb
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\AssignmentOOP07.genruntimeconfig.cache
+D:\backend\Assignment\Assignment-OOP05\SessionOOP07Solution\AssignmentOOP07\obj\Debug\net8.0\ref\AssignmentOOP07.dll
